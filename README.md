@@ -1,6 +1,6 @@
 #Particle Pi Camera Project
 
-![](header.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/header.jpg)
 
 ##Introduction
 
@@ -353,35 +353,35 @@ echo "uploading image"
 
 This is an optional enclosure that you can build if you have access to a laser cutter. All of it was cut on a 3mm white acrylic sheet. You can use MDF or plywood instead. (Link to the AI files.) (image of the circuit)
 
-![](image01.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image01.jpg)
 
   - Attach the Pi to the base plate using M2.5 screws and nuts
 
-![](image02.jpg)
-![](image03.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image02.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image03.jpg)
 
   - Attach the Pi camera and the PIR sensor using M2 screws and nuts
 
-![](image04.jpg)
-![](image05.jpg)
-![](image06.jpg)
-![](image07.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image04.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image05.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image06.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image07.jpg)
 
   - Glue the panels to the base plate using super glue or other fast curing epoxy glues.
 
-![](image10.jpg)
-![](image11.jpg)
-![](image12.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image10.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image11.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image12.jpg)
 
   - Attach the top plate and secure it to the bottom using M3 screws
 
-![](image13.jpg)
-![](image14.jpg)
-![](image15.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image13.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image14.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image15.jpg)
 
   - Power it up with a USB cable 
 
-![](image16.jpg)
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image16.jpg)
 
 
 ##Next steps
