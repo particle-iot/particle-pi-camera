@@ -383,9 +383,9 @@ This is an optional enclosure that you can build if you have access to a laser c
 
 ![](https://github.com/spark/particle-pi-camera/blob/master/images/image16.jpg)
 
+  - Mount it on a tripod and you are good to go! I glued a GoPro tripod mount bracket to the base of the enclosure.
 
-##Next steps
-
+![](https://github.com/spark/particle-pi-camera/blob/master/images/image17.jpg)
 
 
 
