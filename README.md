@@ -480,6 +480,16 @@ This is an optional enclosure that you can build if you have access to a laser c
 
 
 
+TODO:
 
+- Pull in the changes to the neopixel library to the official Particle app
+- Add documentation and example app for testing your PIR sensor
+- Switch over setup documentation to reference internal documentation
+- Post to the rest of the documentation sites
+  - Adafruit
+  - Hackster
+  - Community Forums
+- Include the enclosure design files
+- Instructions for compiling the whole project
 
 
