@@ -97,7 +97,6 @@ void loop()
              else /* parent process */
              {
                  wait(&status); /* wait for child to exit, and store child's exit status */
-                 //exit(0);  /* parent exits */
              }
           pirState = HIGH;
         }
