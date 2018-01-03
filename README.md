@@ -1,6 +1,6 @@
 #Particle Pi Camera Project
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/header.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/header.jpg)
 
 ##Introduction
 
@@ -50,7 +50,7 @@ network={
 
 ### Install the particle agent
 
-(More detail on the particle agent can be found here: https://github.com/spark/particle-agent)
+(More detail on the particle agent can be found here: https://github.com/particle-iot/particle-agent)
   - Install the particle agent using the following in your terminal: 
 ```
 bash <( curl -s https://raw.githubusercontent.com/spark/particle-agent/master/bin/cloud-install )
@@ -444,39 +444,39 @@ echo "uploading image"
 
 This is an optional enclosure that you can build if you have access to a laser cutter. All of it was cut on a 3mm white acrylic sheet. You can use MDF or plywood instead. (Link to the AI files.) (image of the circuit)
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image01.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image01.jpg)
 
   - Attach the Pi to the base plate using M2.5 screws and nuts
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image02.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image03.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image02.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image03.jpg)
 
   - Attach the Pi camera and the PIR sensor using M2 screws and nuts
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image04.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image05.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image06.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image07.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image04.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image05.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image06.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image07.jpg)
 
   - Glue the panels to the base plate using super glue or other fast curing epoxy glues.
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image10.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image11.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image12.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image10.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image11.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image12.jpg)
 
   - Attach the top plate and secure it to the bottom using M3 screws
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image13.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image14.jpg)
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image15.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image13.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image14.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image15.jpg)
 
   - Power it up with a USB cable 
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image16.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image16.jpg)
 
   - Mount it on a tripod and you are good to go! I glued a GoPro tripod mount bracket to the base of the enclosure.
 
-![](https://github.com/spark/particle-pi-camera/blob/master/images/image17.jpg)
+![](https://github.com/particle-iot/particle-pi-camera/blob/master/images/image17.jpg)
 
 
 
